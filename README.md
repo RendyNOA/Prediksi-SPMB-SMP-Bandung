@@ -2,7 +2,7 @@
 
 Dashboard dan model sederhana untuk memperkirakan peluang seorang siswa SD diterima di SMP negeri Kota Bandung, memakai data resmi SPMB 2023–2026.
 
-**Coba langsung:** https://rendynoa.github.io/prediksi-spmb-smp-bandung/
+**Coba langsung:** https://rendynoa.github.io/Prediksi-SPMB-SMP-Bandung/
 
 ## Latar belakang
 
